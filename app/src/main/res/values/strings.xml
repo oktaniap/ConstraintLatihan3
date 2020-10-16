@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLatihan3</string>
+    <string name="selamat_datang">Selamat Datang!</string>
+    <string name="upn_veteran_jawa_timur">UPN \"Veteran\" Jawa Timur</string>
+    <string name="silakan_login">Silakan Login</string>
+    <string name="login">LOGIN</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="daftar">DAFTAR</string>
+</resources>
